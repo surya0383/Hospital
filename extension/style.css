@@ -1,0 +1,80 @@
+
+
+/* Home Courcel style  */
+
+.cimg{
+  height: 400px !important;
+  width:  100% !important;
+  border: 1px solid red;
+}
+
+h1,h2,h3,h4,h5,h6,p{
+  text-justify: justify;
+  font-family: Georgia;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Thankyou page*/
+
+.thankyou{
+  background-color: rgb(247, 177, 152);
+
+}
+
+.thnkimg{
+  height: 450px;
+}
+
+
+
+
+/* footer Style*/
+
+.fa {
+  text-decoration: none;
+  color: white;
+}
+
+hr {
+  color: white;
+}
+
+.ficon {
+  color: gold;
+}
